@@ -45,7 +45,6 @@ __screenshots__/
 .prettierrc.json
 eslint.config.js
 jsconfig.json
-vite.config.js
 
 # Archivos de git
 .gitattributes
