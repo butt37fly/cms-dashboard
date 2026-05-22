@@ -1,0 +1,278 @@
+[
+  {
+    "pinned": true,
+    "image": "/portafolio/img/projects/simona-supermercados/destacada.webp",
+    "gallery": ["/portafolio/img/projects/simona-supermercados/inicio.webp"],
+    "title": "Simona Supermercados",
+    "url": "https://simona.com.co/",
+    "date": "2026",
+    "at": "Marca Creativos",
+    "at_url": "https://marcacreativos.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce", "PHP", "JavaScript"]
+  },
+  {
+    "pinned": true,
+    "image": "/portafolio/img/projects/agencia-d-puntas/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/agencia-d-puntas/inicio.webp",
+      "/portafolio/img/projects/agencia-d-puntas/servicios.webp",
+      "/portafolio/img/projects/agencia-d-puntas/marcas.webp"
+    ],
+    "title": "Agencia DPuntas",
+    "url": "https://agenciadpuntas.com/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": true,
+    "image": "/portafolio/img/projects/melissa-bravo/destacada.webp",
+    "gallery": ["/portafolio/img/projects/melissa-bravo/inicio.webp"],
+    "title": "Melissa Bravo",
+    "url": "https://melissabravo.com/",
+    "date": "2026",
+    "at": "Labibira",
+    "at_url": "https://labibira.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["Shopify"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/kleent/destacada.webp",
+    "gallery": ["/portafolio/img/projects/kleent/inicio.webp"],
+    "title": "Kleent",
+    "url": "https://itskleent.com/",
+    "date": "2026",
+    "at": "",
+    "at_url": "",
+    "at_text": "",
+    "excerpt": "",
+    "content": "",
+    "tags": ["Shopify"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/mia-and-glow/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/mia-and-glow/inicio.webp",
+      "/portafolio/img/projects/mia-and-glow/categorias.webp"
+    ],
+    "title": "Mia & Glow",
+    "url": "https://www.miayglow.com/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/instinto/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/instinto/inicio.webp",
+      "/portafolio/img/projects/instinto/categorias.webp",
+      "/portafolio/img/projects/instinto/proyectos.webp"
+    ],
+    "title": "Instinto",
+    "url": "https://www.instintohome.com/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/grupo-mua/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/grupo-mua/inicio.webp",
+      "/portafolio/img/projects/grupo-mua/aliados.webp"
+    ],
+    "title": "Grupo MUA",
+    "url": "https://grupomua.com.co/",
+    "date": "2023",
+    "at": "Marca Creativos",
+    "at_url": "https://marcacreativos.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "PHP", "JavaScript"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/miranda-talents/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/miranda-talents/inicio.webp",
+      "/portafolio/img/projects/miranda-talents/actrices.webp"
+    ],
+    "title": "Miranda Talents",
+    "url": "https://www.mirandatalents.net/",
+    "date": "2026",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/cadmanmg/destacada.webp",
+    "gallery": ["/portafolio/img/projects/cadmanmg/inicio.webp"],
+    "title": "CADMAN MG",
+    "url": "https://cadmanmanagementgroup.com/es/inicio/",
+    "date": "2023",
+    "at": "Mente Nueva Marketing",
+    "at_url": "https://www.marketingmentenueva.net/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce", "PHP", "JavaScript"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/masaki/destacada.webp",
+    "gallery": ["/portafolio/img/projects/masaki/inicio.webp"],
+    "title": "Masaki",
+    "url": "https://www.masakibienestar.pro/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/zafiro-barber/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/zafiro-barber/inicio.webp",
+      "/portafolio/img/projects/zafiro-barber/servicios.webp"
+    ],
+    "title": "Zafiro Barber",
+    "url": "https://www.zafirobarber.com/",
+    "date": "2026",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce"]
+  },
+
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/napa-autoglass/destacada.webp",
+    "gallery": ["/portafolio/img/projects/napa-autoglass/inicio.webp"],
+    "title": "NAPA Auto Glass",
+    "url": "https://napautoglass.com/",
+    "date": "2024",
+    "at": "Mente Nueva Marketing",
+    "at_url": "https://www.marketingmentenueva.net/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/drinkcentral/destacada.webp",
+    "gallery": ["/portafolio/img/projects/drinkcentral/inicio.webp"],
+    "title": "DrinkCentral",
+    "url": "https://drinkcentral.co/",
+    "date": "2023",
+    "at": "Marca Creativos",
+    "at_url": "https://marcacreativos.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce", "JavaScript"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/marca-creativos/destacada.webp",
+    "gallery": ["/portafolio/img/projects/marca-creativos/inicio.webp"],
+    "title": "Marca Creativos",
+    "url": "https://marcacreativos.com/",
+    "date": "2023",
+    "at": "Marca Creativos",
+    "at_url": "https://marcacreativos.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/jaisal/destacada.webp",
+    "gallery": ["/portafolio/img/projects/jaisal/inicio.webp"],
+    "title": "Jaisal",
+    "url": "http://jaisal.com.co/",
+    "date": "2022",
+    "at": "Marca Creativos",
+    "at_url": "https://marcacreativos.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor", "WooCommerce"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/armonia-musicoterapia/destacada.webp",
+    "gallery": ["/portafolio/img/projects/armonia-musicoterapia/inicio.webp"],
+    "title": "Armonía Músico-terapia",
+    "url": "https://www.armoniamusicoterapia.es/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/rodrigo-aguirre/destacada.webp",
+    "gallery": [
+      "/portafolio/img/projects/rodrigo-aguirre/inicio.webp",
+      "/portafolio/img/projects/rodrigo-aguirre/servicios.webp"
+    ],
+    "title": "Rodrigo Aguirre",
+    "url": "https://www.rodrigoaguirredecarcer.net/",
+    "date": "2025",
+    "at": "ORBIDI",
+    "at_url": "https://www.orbidi.com/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  },
+  {
+    "pinned": false,
+    "image": "/portafolio/img/projects/iglesia-casa-de-fe/destacada.webp",
+    "gallery": ["/portafolio/img/projects/iglesia-casa-de-fe/inicio.webp"],
+    "title": "Iglesia Casa de Fe",
+    "url": "https://iglesiacasadefeonline.com/",
+    "date": "2024",
+    "at": "Mente Nueva Marketing",
+    "at_url": "https://www.marketingmentenueva.net/",
+    "at_text": "Desarrollado en",
+    "excerpt": "",
+    "content": "",
+    "tags": ["WordPress", "Elementor"]
+  }
+]
