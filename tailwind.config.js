@@ -16,11 +16,11 @@ export default {
           200: '#784E8B',
           300: '#603574',
         },
-        alert: {
+        warning: {
           50: '#FFF4B7',
           100: '#EDDA6F',
           200: '#E8D14F',
-          300: '#D0B620',
+          300: '#7f6e0e',
         },
         success: {
           50: '#C3FFA8',
