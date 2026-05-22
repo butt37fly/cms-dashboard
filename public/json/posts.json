@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "pinned": true,
     "image": "/portafolio/img/projects/simona-supermercados/destacada.webp",
     "gallery": ["/portafolio/img/projects/simona-supermercados/inicio.webp"],
@@ -14,6 +15,7 @@
     "tags": ["WordPress", "Elementor", "WooCommerce", "PHP", "JavaScript"]
   },
   {
+    "id": 2,
     "pinned": true,
     "image": "/portafolio/img/projects/agencia-d-puntas/destacada.webp",
     "gallery": [
@@ -32,6 +34,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 3,
     "pinned": true,
     "image": "/portafolio/img/projects/melissa-bravo/destacada.webp",
     "gallery": ["/portafolio/img/projects/melissa-bravo/inicio.webp"],
@@ -46,6 +49,7 @@
     "tags": ["Shopify"]
   },
   {
+    "id": 4,
     "pinned": false,
     "image": "/portafolio/img/projects/kleent/destacada.webp",
     "gallery": ["/portafolio/img/projects/kleent/inicio.webp"],
@@ -60,6 +64,7 @@
     "tags": ["Shopify"]
   },
   {
+    "id": 5,
     "pinned": false,
     "image": "/portafolio/img/projects/mia-and-glow/destacada.webp",
     "gallery": [
@@ -77,6 +82,7 @@
     "tags": ["WordPress", "Elementor", "WooCommerce"]
   },
   {
+    "id": 6,
     "pinned": false,
     "image": "/portafolio/img/projects/instinto/destacada.webp",
     "gallery": [
@@ -95,6 +101,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 7,
     "pinned": false,
     "image": "/portafolio/img/projects/grupo-mua/destacada.webp",
     "gallery": [
@@ -112,6 +119,7 @@
     "tags": ["WordPress", "Elementor", "PHP", "JavaScript"]
   },
   {
+    "id": 8,
     "pinned": false,
     "image": "/portafolio/img/projects/miranda-talents/destacada.webp",
     "gallery": [
@@ -129,6 +137,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 9,
     "pinned": false,
     "image": "/portafolio/img/projects/cadmanmg/destacada.webp",
     "gallery": ["/portafolio/img/projects/cadmanmg/inicio.webp"],
@@ -143,6 +152,7 @@
     "tags": ["WordPress", "Elementor", "WooCommerce", "PHP", "JavaScript"]
   },
   {
+    "id": 10,
     "pinned": false,
     "image": "/portafolio/img/projects/masaki/destacada.webp",
     "gallery": ["/portafolio/img/projects/masaki/inicio.webp"],
@@ -157,6 +167,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 11,
     "pinned": false,
     "image": "/portafolio/img/projects/zafiro-barber/destacada.webp",
     "gallery": [
@@ -175,6 +186,7 @@
   },
 
   {
+    "id": 12,
     "pinned": false,
     "image": "/portafolio/img/projects/napa-autoglass/destacada.webp",
     "gallery": ["/portafolio/img/projects/napa-autoglass/inicio.webp"],
@@ -189,6 +201,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 13,
     "pinned": false,
     "image": "/portafolio/img/projects/drinkcentral/destacada.webp",
     "gallery": ["/portafolio/img/projects/drinkcentral/inicio.webp"],
@@ -203,6 +216,7 @@
     "tags": ["WordPress", "Elementor", "WooCommerce", "JavaScript"]
   },
   {
+    "id": 14,
     "pinned": false,
     "image": "/portafolio/img/projects/marca-creativos/destacada.webp",
     "gallery": ["/portafolio/img/projects/marca-creativos/inicio.webp"],
@@ -217,6 +231,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 15,
     "pinned": false,
     "image": "/portafolio/img/projects/jaisal/destacada.webp",
     "gallery": ["/portafolio/img/projects/jaisal/inicio.webp"],
@@ -231,6 +246,7 @@
     "tags": ["WordPress", "Elementor", "WooCommerce"]
   },
   {
+    "id": 16,
     "pinned": false,
     "image": "/portafolio/img/projects/armonia-musicoterapia/destacada.webp",
     "gallery": ["/portafolio/img/projects/armonia-musicoterapia/inicio.webp"],
@@ -245,6 +261,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 17,
     "pinned": false,
     "image": "/portafolio/img/projects/rodrigo-aguirre/destacada.webp",
     "gallery": [
@@ -262,6 +279,7 @@
     "tags": ["WordPress", "Elementor"]
   },
   {
+    "id": 18,
     "pinned": false,
     "image": "/portafolio/img/projects/iglesia-casa-de-fe/destacada.webp",
     "gallery": ["/portafolio/img/projects/iglesia-casa-de-fe/inicio.webp"],

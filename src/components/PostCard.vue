@@ -1,5 +1,9 @@
 <script setup>
 const props = defineProps({
+  id: {
+    type: Number,
+    required: true,
+  },
   title: {
     type: String,
     required: true,
@@ -18,7 +22,7 @@ const props = defineProps({
     <div class="flex flex-col gap-2">
       <h2 class="overflow-hidden text-ellipsis text-nowrap text-lg">{{ props.title }}</h2>
       <ul>
-        <li class="text-xs text-gray-700">Editar</li>
+        <li class="text-xs text-gray-700" @click="$emit('editPost', props.id)">Editar</li>
         <li class="text-xs text-danger-200">Eliminar</li>
       </ul>
     </div>
