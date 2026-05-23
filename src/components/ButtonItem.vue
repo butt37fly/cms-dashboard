@@ -6,7 +6,7 @@ const props = defineProps({
   },
   type: {
     type: String,
-    default: 'info',
+    default: 'default',
   },
   link: {
     type: String,
@@ -24,7 +24,7 @@ const props = defineProps({
     v-if="props.link !== null"
     :href="props.link"
     :target="props.target"
-    :class="`c-a c-button--${props.type}`"
+    :class="`c-button c-button--${props.type}`"
   >
     {{ props.title }}
   </a>
@@ -35,8 +35,8 @@ const props = defineProps({
 .c-button {
   @apply rounded border px-4 py-2 text-base font-semibold;
 
-  --accent-color: theme(colors.blue.600);
-  --background-color: theme(colors.blue.400);
+  --accent-color: theme(colors.gray.900);
+  --background-color: theme(colors.gray.700);
   --text-color: theme(colors.white);
 
   background-color: var(--background-color);
@@ -52,21 +52,21 @@ const props = defineProps({
   border-color: var(--text-color);
 }
 
-.c-button--success {
-  --accent-color: theme(colors.success.100);
-  --background-color: theme(colors.success.50);
-  --text-color: theme(colors.success.300);
+.c-button--primary {
+  --accent-color: theme(colors.primary.200);
+  --background-color: theme(colors.primary.100);
+  --text-color: theme(colors.white);
 }
 
-.c-button--warning {
-  --accent-color: theme(colors.warning.200);
-  --background-color: theme(colors.warning.50);
-  --text-color: theme(colors.warning.300);
+.c-button--secondary {
+  --accent-color: theme(colors.secondary.200);
+  --background-color: theme(colors.secondary.100);
+  --text-color: theme(colors.white);
 }
 
-.c-button--error {
-  --accent-color: theme(colors.danger.100);
-  --background-color: theme(colors.danger.50);
-  --text-color: theme(colors.danger.300);
+.c-button--danger {
+  --accent-color: theme(colors.danger.200);
+  --background-color: theme(colors.danger.100);
+  --text-color: theme(colors.white);
 }
 </style>
