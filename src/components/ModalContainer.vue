@@ -1,6 +1,6 @@
 <script setup>
 import ButtonItem from './ButtonItem.vue'
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 
 const props = defineProps({
   title: {
@@ -13,30 +13,37 @@ const props = defineProps({
   },
 })
 
-const dialogRef = ref(null)
+const model = defineModel()
+const modalRef = ref(null)
 
-defineExpose({
-  showModal() {
-    dialogRef.value?.showModal()
-  },
-  closeModal() {
-    dialogRef.value?.close()
-  },
+const closeModal = () => {
+  modalRef.value?.close()
+  model.value = false
+}
+
+watch(model, (value) => {
+  if (value) {
+    modalRef.value?.showModal()
+  } else {
+    modalRef.value?.close()
+  }
 })
 </script>
 
 <template>
-  <dialog ref="dialogRef" class="c-modal fixed flex w-9/12 flex-col gap-4 rounded border bg-white">
+  <dialog ref="modalRef" class="c-modal fixed flex w-9/12 flex-col gap-4 rounded border bg-white">
     <header class="border-b border-gray-300 p-3" v-if="props.title !== null">
       <h2 class="text-lg font-bold">
         {{ props.title }}
       </h2>
     </header>
 
-    <slot name="conent" />
+    <section class="w-full p-3">
+      <slot name="content" />
+    </section>
 
     <footer class="flex w-full flex-row items-center justify-end gap-2 p-3">
-      <ButtonItem @click="dialogRef.close()" :title="props.closeTitle" type="danger" />
+      <ButtonItem @click="closeModal" :title="props.closeTitle" type="danger" />
     </footer>
   </dialog>
 </template>
